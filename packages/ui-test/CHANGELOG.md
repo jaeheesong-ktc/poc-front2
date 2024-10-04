@@ -1,5 +1,11 @@
 # @jaeheesong-ktc/ui-test
 
+## 1.2.0
+
+### Minor Changes
+
+- aaa
+
 ## 1.1.0
 
 ### Minor Changes

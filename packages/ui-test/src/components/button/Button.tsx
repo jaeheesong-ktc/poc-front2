@@ -4,6 +4,7 @@ export interface ButtonProps {
   primary?: boolean
   size?: 'small' | 'medium' | 'large'
   label: string
+  backgroundColor: string
   onClick?: () => void
 }
 
@@ -11,6 +12,7 @@ export const Button = ({
   primary = false,
   size = 'medium',
   label,
+  backgroundColor,
   ...props
 }: ButtonProps) => {
   const mode = primary ? 'ktc-color-text-primary' : 'ktc-color-text-secondary'
