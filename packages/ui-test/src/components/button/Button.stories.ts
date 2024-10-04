@@ -11,6 +11,7 @@ const meta = {
   // argTypes: {
   //   backgroundColor: { control: 'color' },
   // },
+  tags: ['autodocs'],
   args: { onClick: fn() },
 } satisfies Meta<typeof Button>
 

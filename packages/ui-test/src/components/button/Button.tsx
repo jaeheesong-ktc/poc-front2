@@ -17,9 +17,10 @@ export const Button = ({
   const mode = primary ? 'ktc-color-text-primary' : 'ktc-color-text-secondary'
   return (
     <button
-      className={mode}
+      className={['storybook-button', `storybook-button--${size}`, mode].join(' ')}
+      {...props}
     >
-      button
+      {label}
     </button>
   )
 }
