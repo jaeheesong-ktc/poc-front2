@@ -1,4 +1,4 @@
-# @jaeheesong-ktc/typescript-config
+# @jaeheesong-ktc/ui-test
 
 ## 0.1.0
 
