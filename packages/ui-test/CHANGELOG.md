@@ -1,5 +1,16 @@
 # @jaeheesong-ktc/ui-test
 
+## 1.0.0
+
+### Major Changes
+
+- dfd Please enter a summary for your changes.
+
+### Patch Changes
+
+- Updated dependencies
+  - @jaeheesong-ktc/ui-test@1.0.0
+
 ## 0.3.0
 
 ### Minor Changes
